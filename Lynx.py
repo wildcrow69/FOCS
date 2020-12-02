@@ -64,7 +64,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 ░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
 ░  ░       ░ ░         ░         ░  ░ ░      ░  ░
                                                  
-               WhatsApp: 03124788959
+               WhatsApp: Lynx
                         KOMAIL
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
@@ -122,8 +122,8 @@ print  """\033[1;91m
                      ▇▇◣◥▅▅▅◤◢▇▇
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
-                   WhatsApp : 03124788959
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
+                   WhatsApp : Lynx
+\033[1;96mAuthor  \033[1;93m: \033[1;92mWildCrow
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
 \033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
@@ -131,7 +131,7 @@ print  """\033[1;91m
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectPassword = "lynx"
 
 loop = 'true'
 while (loop == 'true'):
